@@ -41,6 +41,8 @@ Epoch 24
 <img width="1042" height="1042" alt="epoch_0024" src="https://github.com/user-attachments/assets/e36e298e-89eb-478c-be09-05b27d53d746" />
 
 
+Added training for F-ano Gan which just uses an extra encoder . It should work better if we used VGG19 loss but lets try that later 
+
 Epoch 27 
 
 
